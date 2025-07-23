@@ -1,5 +1,3 @@
-# Spot Goes to Hollywood (Mega Drive) — Quality of Life ROM Hack
-
 Please consider supporting:
 
 <a href="https://www.buymeacoffee.com/nani16bit" target="_blank">
@@ -10,6 +8,7 @@ or
 <img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
 </a>
 
+# Spot Goes to Hollywood (Mega Drive) — Quality of Life ROM Hack
 
 This ROM hack upgrades the *Spot Goes to Hollywood* experience on the Sega Mega Drive with a set of quality-of-life improvements:
 
