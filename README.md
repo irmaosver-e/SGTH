@@ -2,14 +2,10 @@ Please consider supporting:
 
 <a href="https://www.buymeacoffee.com/nani16bit" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-</a> 
+</a>
 <a href="https://github.com/sponsors/irmaosver-e">
 <img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
 </a>
-<a href="https://raw.githubusercontent.com/irmaosver-e/SGTH/main/SGTH.zip">
-<img src="https://img.shields.io/badge/ItchIO-brightred" width="150" />
-</a>
-
 
 # Spot Goes to Hollywood (Mega Drive) — Quality of Life ROM Hack
 
