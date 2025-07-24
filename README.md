@@ -1,11 +1,13 @@
-Please consider supporting:
+# 📦 Download & Support
+If you enjoy this project, consider supporting me with a donation or a kind word.
 
-<a href="https://www.buymeacoffee.com/nani16bit" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+<a href="https://irmaosver-ehotmailcom.itch.io/spot-goes-to-hollywood-ex/purchase">
+<img src="https://img.shields.io/badge/Download_on_Itch.Io-fa5c5c" width="215" />
 </a>
-<a href="https://github.com/sponsors/irmaosver-e">
-<img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
-</a>
+
+Feedback is always welcome and helps me keep building better hacks.
+
+---
 
 # Spot Goes to Hollywood (Mega Drive) — Quality of Life ROM Hack
 
